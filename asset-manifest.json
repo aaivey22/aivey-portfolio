@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/aivey-portfolio/static/css/main.26472ffa.chunk.css",
+    "main.js": "/aivey-portfolio/static/js/main.a729d1cf.chunk.js",
+    "main.js.map": "/aivey-portfolio/static/js/main.a729d1cf.chunk.js.map",
+    "runtime-main.js": "/aivey-portfolio/static/js/runtime-main.e8202589.js",
+    "runtime-main.js.map": "/aivey-portfolio/static/js/runtime-main.e8202589.js.map",
+    "static/js/2.385154c0.chunk.js": "/aivey-portfolio/static/js/2.385154c0.chunk.js",
+    "static/js/2.385154c0.chunk.js.map": "/aivey-portfolio/static/js/2.385154c0.chunk.js.map",
+    "index.html": "/aivey-portfolio/index.html",
+    "precache-manifest.8519d7018c90809836fa408c4ef7728c.js": "/aivey-portfolio/precache-manifest.8519d7018c90809836fa408c4ef7728c.js",
+    "service-worker.js": "/aivey-portfolio/service-worker.js",
+    "static/css/main.26472ffa.chunk.css.map": "/aivey-portfolio/static/css/main.26472ffa.chunk.css.map",
+    "static/js/2.385154c0.chunk.js.LICENSE.txt": "/aivey-portfolio/static/js/2.385154c0.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/aivey-portfolio/static/media/avatar.5b16128d.png",
+    "static/media/burger-meister-gif.gif": "/aivey-portfolio/static/media/burger-meister-gif.31e9ad7b.gif",
+    "static/media/inspirit.JPG": "/aivey-portfolio/static/media/inspirit.a76b055e.JPG",
+    "static/media/jotter.gif": "/aivey-portfolio/static/media/jotter.3e45985e.gif",
+    "static/media/myFamiliar.png": "/aivey-portfolio/static/media/myFamiliar.160feb50.png",
+    "static/media/overYonder.gif": "/aivey-portfolio/static/media/overYonder.98cb1393.gif",
+    "static/media/read.gif": "/aivey-portfolio/static/media/read.06cb3ad0.gif",
+    "static/media/App.css": "/aivey-portfolio/static/media/rockymtn.ac172f94.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8202589.js",
+    "static/js/2.385154c0.chunk.js",
+    "static/css/main.26472ffa.chunk.css",
+    "static/js/main.a729d1cf.chunk.js"
+  ]
+}
